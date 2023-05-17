@@ -7,11 +7,4 @@ services:
       - '8000:8000'
       - '7070:8080'
        - '6060:8080'
-       Hi team, good morning
-              Hi team, good morning
-                     Hi team, good morning
-              Hi team, good morning
-       Hi team, good morning
-              Hi team, good morning
-                     Hi team, good morning
-              Hi team, good morning
+Hi team, How is the Jossshshs!!!
