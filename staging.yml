@@ -4,8 +4,6 @@ services:
       context: app
       target: builder
     ports: 
-      - '8000:8000'
-      - '7070:8080'
-       - '6060:8080'
-       Hi team, good morning
-              Hi team, good morning
+      - '8000:8022'
+      - '7070:1111'
+ Hello Team, Good Morning 
