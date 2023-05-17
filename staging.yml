@@ -6,3 +6,5 @@ services:
     ports: 
       
       - '7070:8080'
+       - '8080:8080'
+       Its port changhed 
